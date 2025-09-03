@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about learning, building, and colla
 
 ## 🚀 My Skills
 - **Programming Languages**: Python, JavaScript, R, HTML, CSS
-- **Frameworks & Tools**: Django, React
+- **Frameworks & Tools**: Django, React, FastAPI, Tensorflow
 - **Other Skills**: Management, Adaptability, Teamwork
 
 ---
