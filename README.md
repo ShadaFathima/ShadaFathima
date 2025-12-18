@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about learning, building, and colla
 ---
 
 ## 🌟 About Me
-- 💻 **Interests**: Web Development, Machine Learning, Data Science, and Researching.
+- 💻 **Interests**: Web Development, Machine Learning,Deep Learning, Data Science, and Researching.
 - 🌱 **Currently Learning**: Delving deeper into Machine Learning, AI, and exploring new tech stacks.
 - 🤝 **Open to Collaborations**: Excited to collaborate on development projects or medical-research initiatives.
 
