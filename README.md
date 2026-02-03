@@ -13,13 +13,8 @@ Welcome to my GitHub profile! I'm passionate about learning, building, and colla
 
 ## 🚀 My Skills
 - **Programming Languages**: Python, JavaScript, R, HTML, CSS
-- **Frameworks & Tools**: Django, React, FastAPI, Tensorflow
+- **Frameworks & Tools**: Django, React, FastAPI, Tensorflow, Pytorch
 - **Other Skills**: Management, Adaptability, Teamwork
-
----
-
-## 📈 GitHub Stats
-![ShadaFathima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShadaFathima&show_icons=true&theme=radical)
 
 ---
 
